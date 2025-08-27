@@ -2,6 +2,7 @@ import os
 
 
 os.system("clear")
+print("bienvenidos al conversor de monedas")
 
 nombre = input("Ingresa tu nombre completo: ")
 cc = int(input("Ingresa tu número de cédula: "))
